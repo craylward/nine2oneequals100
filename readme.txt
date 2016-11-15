@@ -12,7 +12,7 @@ NOTE: If we include the leading minus sign, possibilities increases to 5^9
 FUTURE: Implement modulus operator (%). Where would this fit in the order
 of operations...?
 
-1. Brute force approach: Generate base 5 numbers from 00000000 to 44444444 to cover all
+1. Brute force approach: Generate base 5 numbers from 000000000 to 444444444 to cover all
 posibilities. 
 2. Order of operations I.Combine; II. Multiply and Divide; III. Add and
 subtract
