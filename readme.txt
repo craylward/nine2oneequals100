@@ -2,6 +2,8 @@ How many ways can you make 100 out of the sequence of non-zero digits
 987654321 in order by placing arithmetic signs in between them.
 +, -, /, *
 
+Example: 98/7+6*5...
+
 Consider the nine descending sequenced digits with a "bucket" to place an
 operator in between each digit. We have 5 operators (+. -, /, *,'combine'),
 so 8 buckets with 5 possible choices yields 5^8
